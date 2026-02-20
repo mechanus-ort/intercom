@@ -1,0 +1,11 @@
+{
+  "2026-02-20": {
+    "budi": {
+      "did": "Fix login bug & review 3 PRs",
+      "do": "Implement notification system & write tests",
+      "blockers": "Waiting for API spec from backend team",
+      "notes": "Deploy target: this Friday",
+      "postedAt": "2026-02-20T14:27:42.934Z"
+    }
+  }
+}

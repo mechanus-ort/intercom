@@ -1,0 +1,21 @@
+{
+  "streaks": {
+    "budi": {
+      "count": 1,
+      "lastDate": "2026-02-20"
+    }
+  },
+  "posts": {
+    "2026-02-20": [
+      {
+        "alias": "budi",
+        "date": "2026-02-20",
+        "ts": "2/20/2026, 2:25:23 PM",
+        "did": "Fix login bug; review PR #42",
+        "will": "Deploy to staging; write tests",
+        "blockers": "Waiting for DB creds",
+        "notes": "Sprint ends Friday"
+      }
+    ]
+  }
+}
